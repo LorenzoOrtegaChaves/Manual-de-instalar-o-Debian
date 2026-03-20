@@ -30,9 +30,11 @@
 ![alt text](<Captura de tela 2026-03-20 085337.png>)
 
 **Iniciar: Clicar na seta verde "Iniciar"**
+
 ![alt text](image-1.png)
 
 # Parte 2: O Instalador do Debian
+
 **Menu de Boot: Escolher Graphical Install**
 
 ![alt text](image-2.png)
