@@ -1,6 +1,7 @@
 # Manual de istalação do Linux Debian
 
 ***Primeiro Passo***
+
 ![alt text](<Captura de tela 2026-03-04 083547.png>)
 
 **Nova Máquina: Abrir o VirtualBox e clicar em "Novo".**
